@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{dc5409b8-7384-46be-b4d7-098df85063c6}">
+		<property name="assetPath">
+			<value>500098-Small_MAMMAL_or_REPTILE_Voice_-IDLE_CALM_GROWL_-Creatures-Monsters-Beasts-Dragons_Dinosaurs_-03.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.7951020408163267</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e4e80ae6-6330-41e4-9078-2832924f9435}</destination>
+		</relationship>
+	</object>
+</objects>
