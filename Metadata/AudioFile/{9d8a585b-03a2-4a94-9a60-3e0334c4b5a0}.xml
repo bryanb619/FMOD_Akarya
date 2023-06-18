@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{9d8a585b-03a2-4a94-9a60-3e0334c4b5a0}">
+		<property name="assetPath">
+			<value>boss_spawn.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>5.3289795918367346</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e4e80ae6-6330-41e4-9078-2832924f9435}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{7e45a99f-ddc9-4976-80c7-eec9e6238b3b}">
+		<property name="assetPath">
+			<value>crystal_cleanse.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.7281632653061223</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e4e80ae6-6330-41e4-9078-2832924f9435}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{cee5dd98-f971-47d6-b0e4-a34523a58b67}">
+		<property name="assetPath">
+			<value>monsters.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.6497959183673467</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e4e80ae6-6330-41e4-9078-2832924f9435}</destination>
+		</relationship>
+	</object>
+</objects>
